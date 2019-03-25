@@ -1,5 +1,4 @@
-# Novice-Part
-For study
+# Study
 
 /*
    
