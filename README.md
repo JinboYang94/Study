@@ -18,7 +18,7 @@
    
    1. Software Engineering
    
-   2.CSAPP
+   2. CSAPP
    
    GLHF in 2019!
 
