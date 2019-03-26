@@ -2,23 +2,23 @@
 
 /*
    
-   Here it contains several projects presented in my courses.
+   Here it contains several projects presented in my courses(will be uploaded soon).
    
-   1.Database System
+   1. Database System
    
-   2.Machine Learning
+   2. Machine Learning
    
-   3.Computer Networks
+   3. Computer Networks
    
-   4.Introduction to Data Mining
+   4. Introduction to Data Mining
    
-   To be continued, it will upload some projects of following courses from my local GitHubRemote.
+   5. Algorithms
    
-   1.Software Engineering
+   For some reasons, those are in my private repository.
    
-   2.Algorithms
+   1. Software Engineering
    
-   3.CSAPP
+   2.CSAPP
    
    GLHF in 2019!
 
