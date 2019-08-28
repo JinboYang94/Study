@@ -38,8 +38,8 @@ class Leetcode40 {
       for (int i = idx; i < pool.length; i++) {
         if (i - 1 >= 0 && i != idx && pool[i] == pool[i - 1]) { // avoid duplicate numbers
           continue;   // above i != idx is for guarantee ans can have same value numbers but
-        }             // not the same one. or use i > index
-        sol.add(pool[i]);
+        }             // not the same one. or use i > index. Because i == idx && pool[i] == p[i - 1]
+        sol.add(pool[i]);// this only means the [1,1,6] same value situation.
         backtracking(ans, sol, pool, tar - pool[i], i + 1);
         sol.remove(sol.size() - 1);
       }
