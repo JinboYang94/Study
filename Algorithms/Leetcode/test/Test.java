@@ -1,16 +1,20 @@
+import LeetcodeProblems.ListNode;
 import java.util.Arrays;
-import java.util.LinkedList;
 
 class Test {
 
   public static void main(String[] args) {
-    Node c = new Node();
-    c.val = 4;
-
-    Node a = new Node();
-    Node b = a;
-    b.next = c;
-    System.out.println(a.next.val);
+    ListNode a = new ListNode(1);
+    a.next = new ListNode(2);
+    ListNode b = a;
+//    b.next = new LeetcodeProblems.ListNode(3);
+//    System.out.println(a.next.val);
+//    a.next = new LeetcodeProblems.ListNode(3);
+//    System.out.println(b.next.val);
+//    a = a.next;
+//    System.out.println(b.val);
+//    String s = "a b c";
+//    System.out.println(s.indexOf(' '));
   }
 
   private static void swap(int[] nums, int a, int b) {
