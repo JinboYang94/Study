@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/GithubRemote.iml" filepath="$PROJECT_DIR$/GithubRemote.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Algorithms/Leetcode/Leetcode.iml" filepath="$PROJECT_DIR$/Algorithms/Leetcode/Leetcode.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Algorithms/PrincetonAlgorithmsP1/Week1/Week1.iml" filepath="$PROJECT_DIR$/Algorithms/PrincetonAlgorithmsP1/Week1/Week1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Algorithms/PrincetonAlgorithmsP1/Week2/Week2.iml" filepath="$PROJECT_DIR$/Algorithms/PrincetonAlgorithmsP1/Week2/Week2.iml" />
+    </modules>
+  </component>
+</project>

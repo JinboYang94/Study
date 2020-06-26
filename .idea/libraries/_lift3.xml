@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name=".lift3">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/Algorithms/PrincetonAlgorithmsP1/Week1/resources/.lift/algs4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Algorithms/PrincetonAlgorithmsP1/Week1/resources/.lift/checkstyle-lift.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
