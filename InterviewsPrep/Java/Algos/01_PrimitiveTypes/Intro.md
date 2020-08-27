@@ -36,7 +36,7 @@
 >a = 5 = 0101  
 >b = 7 = 0111  
 >a ^ b = 0010 = 2  
->so if different => 1, if same => 0
+>so if different -> 1, if same -> 0
 
 - Signed left shift: <<
 >a = 5 = 0000 0101  
