@@ -24,7 +24,7 @@ import java.util.List;
 class Leetcode47 {
 
   public List<List<Integer>> permuteUnique(int[] nums) {
-    Arrays.sort(nums);
+//    Arrays.sort(nums);
     List<Integer> temp = new ArrayList<>();
     List<List<Integer>> ans = new ArrayList<>();
     List<Integer> index = new ArrayList<>();

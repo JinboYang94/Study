@@ -1,6 +1,9 @@
 package ChallengeNov;
 
-class Solution {
+import java.util.HashSet;
+import java.util.Set;
+
+class ValidSquare {
 
   public boolean validSquare(int[] p1, int[] p2, int[] p3, int[] p4) {
     int[][] p = {p1, p2, p3, p4};
@@ -58,9 +61,7 @@ class Solution {
   }
 }
 
-import java.util.Set;
-
-class Solution {
+class ValidSquare2 {
 
   public boolean validSquare(int[] p1, int[] p2, int[] p3, int[] p4) {
     // avoid same points

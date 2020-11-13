@@ -1,6 +1,6 @@
-package ChanllengeNov;
+package ChallengeNov;
 
-class Solution {
+class FlippingAnImage {
 
   public int[][] flipAndInvertImage(int[][] A) {
     int row = A.length;
@@ -30,7 +30,7 @@ class Solution {
 }
 
 // Another much cleaner solution, i * 2 < len
-class Solution {
+class FlippingAnImage2 {
 
   public int[][] flipAndInvertImage(int[][] A) {
     int len = A.length;
