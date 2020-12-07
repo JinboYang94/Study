@@ -12,7 +12,7 @@
 | char | 2 bytes | Stores a single character/letter or ASCII values |
 
 #### Java Type Conversion
-[![TypeConversion](Resources/type_conversion.png "Java Type Conversion")]
+![TypeConversion](Resources/type_conversion.png "Java Type Conversion")
 
 #### Java Bit Manipulation
 - Unary bitwise complement operator: ~
